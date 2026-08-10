@@ -28,6 +28,7 @@ The keyboard features a clean, modern color theme with a blue and white keycap d
 
 <img width="884" height="358" alt="keyboard-layout" src="https://github.com/user-attachments/assets/200af940-2da4-43e9-a512-f6622e2dbf95" />
 
+
 ## Software
 
 The included configuration software allows users to fully customize their keyboard experience:
