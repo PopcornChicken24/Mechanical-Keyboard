@@ -26,7 +26,7 @@ A customizable **75% mechanical RGB keyboard** designed for a compact yet effici
 
 The keyboard features a clean, modern color theme with a blue and white keycap design. The layout shown below represents the planned **75% ANSI QWERTY configuration** and highlights the compact arrangement of keys while maintaining essential functionality.
 
-![Keyboard Layout](keyboard-layout.png)
+<img width="884" height="358" alt="keyboard-layout" src="https://github.com/user-attachments/assets/200af940-2da4-43e9-a512-f6622e2dbf95" />
 
 ## Software
 
